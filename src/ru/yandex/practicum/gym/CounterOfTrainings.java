@@ -1,6 +1,5 @@
 package ru.yandex.practicum.gym;
 
-import java.util.HashMap;
 
 public  class CounterOfTrainings {
     private final Coach coach;
